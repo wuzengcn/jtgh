@@ -1,0 +1,311 @@
+---
+format:
+  revealjs:
+    theme: styles.scss
+    transition: slide
+    slide-number: true
+    wide: true
+    chalkboard: true
+    margin: 0.1
+    footer: "Georgetown University | Wu Zeng"
+    controls: true
+---
+
+::: {.title-slide}
+
+#  Jouney to Global Health
+
+<br>
+**Wu Zeng, MD, PHD**
+<br>
+
+Georgetown University
+
+:::
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(kableExtra)
+library(readxl)
+```
+
+## Jourey on global health {visibility="hidden"}
+
+<br>
+
+<center> 
+
+<img style = "border-radius:50%;border: 2px solid black" src = "/pic/Zeng-photo.png" width = "250px"> 
+
+</center>
+
+---
+
+## Broken dream 
+
+:::: columns
+:::{.column width="50%"}
+
+<br>
+
+<center>
+
+<img src="https://media4.giphy.com/media/SsNinnuDQWiy8IjzoM/200.gif" width = "450"> 
+
+<p class="caption"> What I wanted to be for college</p>
+
+</center>
+
+:::
+:::{.column width="50%"}
+
+<br>
+
+<center>
+
+<img src= "https://webappstatic.buzzfeed.com/static/2018-05/23/14/asset/buzzfeed-prod-web-04/anigif_sub-buzz-24483-1527100428-1.gif" width = "450">
+
+<p class="caption"> What I ended to be for college</p>
+
+</center>
+
+:::
+::::
+
+---
+
+## Field visit to Gansu, Qinghai, and Ning Xia
+
+:::: columns
+:::{.column width="50%"}
+
+<br>
+
+<center>
+
+<img src = "https://chinafolio.com/wp-content/uploads/2013/06/Gansu.jpg" width = "450">
+
+</center>
+:::
+
+:::{.column width="50%"}
+
+<br>
+
+<center>
+
+<img src="http://www.andersreizen.nl/jpeg/cn/cn06c01a.jpg" width = "350">
+
+</center>
+
+:::
+::::
+
+---
+
+## Accessibility in remote areas
+
+:::: columns
+:::{.column width="50%"}
+
+<center>
+
+<img src="/pic/F1.jpg" width = "400" style = "border-radius: 10%; border: 1px solid black">
+
+
+<img src="/pic/F3.jpg" width = "400" style = "border-radius: 10%; border: 1px solid black">
+
+</center>
+:::
+
+:::{.column width="50%"}
+
+<center>
+
+<img src="/pic/F2.jpg" width = "400" style = "border-radius: 10%; border: 1px solid black">
+
+<img src="/pic/F4.jpg" width = "400" style = "border-radius: 10%; border: 1px solid black">
+
+</center>
+
+:::
+::::
+
+---
+
+## Beautiful places
+
+:::: columns
+:::{.column width="50%"}
+<center>
+
+<img src="/pic/F6.jpg" width = "350" style = "border-radius: 5%; border: 1px solid black">
+
+
+<img src="/pic/F7.jpg" width = "350" style = "border-radius: 5%; border: 1px solid black">
+
+</center>
+
+:::
+:::{.column width="50%"}
+
+<center>
+
+<img src="https://pbs.twimg.com/media/Dfc-5saV4AAeJMV?format=jpg&name=4096x4096" width = "350" style = "border-radius: 5%; border: 1px solid black">
+
+</br>
+
+</br>
+
+<img src="https://pbs.twimg.com/media/Dfc-5saUYAAu6C9?format=jpg&name=large" width = "350" style = "border-radius: 5%; border: 1px solid black">
+
+</center>
+
+:::
+::::
+
+---
+
+## Study at Heller School, Brandeis University
+
+<center>
+
+<img src="pic/heller-entrance.jpg" width = "600">
+
+
+<img src="pic/heller1.jpg" width = "600">
+
+</center>
+
+---
+
+## Key Research Area 1: Health systems financing
+
+:::: columns
+:::{.column width="50%"}
+
+- [Health Policy Project (HPP)]{.red} in Afghanistan, USAID: Senior Health Economist
+    - Lead overall HEF activities
+    - Build local capacity
+- [Health Sector Resiliency (HSR) project]{.red} in Afghanistan, USAID: Senior Advisor
+    - Supervise overall health economic and financing activities
+- Technical assistance on [health financing]{.red} in Zimbabwe, The World Bank
+    - Led national health accounts
+    - Supervise costing national health strategy
+
+:::
+:::{.column width="50%"}
+
+<center> 
+<img src="pic/picture1.jpg" style = "border-radius:5%;border: 2px solid black" width = "500">
+</center>
+:::
+::::
+
+---
+
+## Key Research Area 2: Economics Evaluation
+
+:::: columns
+:::{.column width="50%"}
+
+- [Costing]{.red}: Costing essential package of services (EPS) in Bangladesh, USAID
+
+- [Cost-efficiency]{.red}: Economic analysis of HIV/AIDS programs, UNAIDS
+
+- [Cost-effectiveness]{.red}: Cost-effectiveness analysis of results-based financing in Zambia and Zimbabwe, World Bank
+
+- [Economic burden of disease]{.red}: Economic burden of dengue, Sanofi Pasteur
+:::
+:::{.column width="50%"}
+
+<center>
+
+<img src="Pic/Training.jpg" style = "border-radius:5%;border: 2px solid black" width = "450">
+</center>
+:::
+::::
+
+
+---
+
+## Key Research Area 3: Policy/program design and evaluation 
+
+::: columns
+:::{.column width="50%"}
+
+- [Various health policy]{.red} in Afghansitan, USAID
+
+- [Financing strategy for health emergencies]{.red} in Bhutan, UNICEF
+
+- [Evaluation of performance-based financing]{.red} in the Republic of the Congo, The World Bank
+    - Lead both two rounds of household surveys (∼1400 households) and health facility surveys (∼300 health facilities)
+- Evaluation of lifestyle modification and cardiac rehabilitation in Medicare beneficiaries, Centers for Medicare & Medicaid Services.
+    - Lead the analysis of impact evaluation using claims data from Medicare
+:::
+:::{.column width="50%"}
+<center>
+<img src="pic/HF-strategy.png" style = "border-radius:5%;border: 2px solid black" width = "450">
+</center>
+:::
+
+<center> 
+
+### Evaluation is important $\rightarrow$ policy change
+
+</center>
+
+::::
+
+---
+
+## Do not need to be a pilot to travel around the world
+
+:::: columns
+:::{.column width="50%"}
+
+<center> 
+
+<img src="/pic/p8.jpg" width = "400" style = "border-radius: 5%; border: 1px solid black">
+
+
+<img src="/pic/p6.jpg" width = "400" style = "border-radius: 5%; border: 1px solid black">
+
+</center>
+
+:::
+:::{.column width="50%"}
+
+<center>
+
+<img src="/pic/p2.jpg" width = "400" style = "border-radius: 5%; border: 1px solid black">
+
+<img src="/pic/p4.jpg" width = "400" style = "border-radius: 5%; border: 1px solid black">
+
+</center>
+:::
+::::
+
+---
+
+## Q&A
+
+<br><br>
+
+<center> 
+
+`r fontawesome::fa("envelope")` <a href="mailto:wz192@georgetown.edu">wz192@georgetown.edu</a>
+
+</center>
+
+
+
+
+
+
+
+
+

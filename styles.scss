@@ -1,0 +1,78 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-monospace: "Courier New", Courier, monospace !default;
+
+// colors
+$body-bg: #ffffff !default;
+$body-color: #000 !default;
+$link-color: #5FA343 !default;
+$selection-bg: #26351c !default;
+$accent-color: #862633 !default;
+
+// headings
+$presentation-heading-font: "Courier New", Courier, monospace !default;
+$presentation-heading-color: #003DA5 !default;
+$presentation-font-size-root: 26px !default;
+$presentation-h1-font-size: 2.0em !default;
+$presentation-h2-font-size: 1.5em !default;
+$presentation-h3-font-size: 1.0em !default;
+
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 0.9em;
+}
+
+.red {
+  color: $accent-color;
+}
+
+.green {
+  color: $link-color;
+}
+
+.purple {
+  color: #520860;
+}
+
+.blue {
+  color: #003DA5;
+}
+
+.orange {
+  color: #FF6F00;
+}
+
+.yellow {
+  color: #F8E08E;
+}
+
+.huge {
+   font-size: 2.0 em !important;
+}
+
+.large {
+   font-size: 1.5 em !important;
+}
+
+.small {
+  font-size: 0.9 em
+}
+
+.tiny {
+  font-size: 0.5 em
+}
+
+.reveal .slides section.title-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;    /* vertical centering */
+  align-items: center;        /* horizontal centering */
+  text-align: center;
+  padding: 2rem;
+  box-sizing: border-box;
+  gap: 0.75rem;
+  overflow: auto;             /* avoids layout breaks on small screens */
+}
