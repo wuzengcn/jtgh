@@ -182,6 +182,39 @@ library(readxl)
 
 ---
 
+## Mentors 
+
+:::: columns
+:::{.column width="50%"}
+
+<br>
+
+<center>
+
+<img src="pic/shepard2.jpg" width = "400" hight = "400" style = "border-radius: 50%; border: 2px solid black">
+
+Prof. Donald S. Shepard
+
+</center>
+
+
+:::
+
+:::{.column width="50%"}
+
+<br>
+
+<center>
+<img src="pic/nanda2.jpg" width = "400" style = "border-radius: 50%; border: 2px solid black">
+
+Prof. AK Nandakumar
+</center>
+:::
+::::
+
+
+---
+
 ## Key Research Area 1: Health systems financing
 
 :::: columns
@@ -228,7 +261,6 @@ library(readxl)
 </center>
 :::
 ::::
-
 
 ---
 
