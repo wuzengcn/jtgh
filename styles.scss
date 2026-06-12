@@ -1,7 +1,10 @@
 /*-- scss:defaults --*/
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700;800&display=swap');
+
 // fonts
-$font-family-monospace: "Courier New", Courier, monospace !default;
+// $font-family-monospace: "Courier New", Courier, monospace !default;
+$font-family-monospace: "Noto Sans", sans-serif !default;
 
 // colors
 $body-bg: #ffffff !default;
@@ -11,7 +14,8 @@ $selection-bg: #26351c !default;
 $accent-color: #862633 !default;
 
 // headings
-$presentation-heading-font: "Courier New", Courier, monospace !default;
+// $presentation-heading-font: "Courier New", Courier, monospace !default;
+$presentation-heading-font: "Geneva", serif !default;
 $presentation-heading-color: #003DA5 !default;
 $presentation-font-size-root: 26px !default;
 $presentation-h1-font-size: 2.0em !default;
