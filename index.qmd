@@ -374,7 +374,7 @@ Prof. AK Nandakumar
 :::{.column width="50%"}
 
 - [Resource tracking]{.red} in Afghansitan and Somalia, World Bank
-- [Cost estimate]{.red} for anxillary services for oncology services, ASCO
+- [Cost estimate]{.red} for anxillary services for oncology treatment, ASCO
 - [Economic evaluation]{.red} of Ebola response in DRC, World Bank
 - [Economic evaluation]{.red} of interventions addressing cervical cancer, GAVI
 
